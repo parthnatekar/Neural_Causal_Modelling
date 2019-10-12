@@ -7,5 +7,7 @@ interpret why the model predicts what it does.
 This repository implements a framework to get causal interpretations of an Artificial Neuron Network for determining neuron and layer level causalit.
 
 ## Workflow 
-<img src="./images/workflow.png" width="500"> 
+<p align="center">
+  <img src="./images/workflow.png" width="500"> 
+</p>
 

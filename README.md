@@ -8,6 +8,6 @@ This repository implements a framework to get causal interpretations of an Artif
 
 ## Workflow 
 <p align="center">
-  <img src="./images/workflow.png" width="500"> 
+  <img src="./images/workflow.png"> 
 </p>
 

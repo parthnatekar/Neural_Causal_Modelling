@@ -22,4 +22,4 @@ To demonstrate how our algorithm can seperate causal variables from spurious and
 The [HELOC Dataset](https://community.fico.com/s/explainable-machine-learning-challenge?tabset-3158a=2) (Home Equity Line of Credit) is an anonymized dataset provided by FICO.
 The fundamental task is to predict credit risk. A simple ANN is trained for this, reaching 70% validation accuracy. Causal input variables and their ranges are found using the pipeline above.
 
-<img src="./images/HELOC.png"> 
+<img src="./images/HELOC.jpg"> 

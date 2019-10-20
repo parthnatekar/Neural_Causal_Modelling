@@ -21,5 +21,8 @@ To demonstrate how our algorithm can seperate causal variables from spurious and
 ### HELOC Dataset
 The [HELOC Dataset](https://community.fico.com/s/explainable-machine-learning-challenge?tabset-3158a=2) (Home Equity Line of Credit) is an anonymized dataset provided by FICO.
 The fundamental task is to predict credit risk. A simple ANN is trained for this, reaching 70% validation accuracy. Causal input variables and their ranges are found using the pipeline above.
+ 
 
-<img src="./images/HELOC.jpg"> 
+Figure 1 : Causal vs Spurious Variables for MNIST           |  Figure 2: Causal Variables and ranges for HELOC
+:-------------------------:|:-------------------------:
+<img src="./images/MNIST.jpg" width="500">  |  <img src="./images/HELOC.jpg" width="450">

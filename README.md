@@ -1,4 +1,4 @@
-# Neural_Causal_Modelling
+# Neural Causal Modelling
 Graphical Modelling of Neural Networks for determining causality between input, intermediate and output variables
 
 ## Background

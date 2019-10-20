@@ -18,7 +18,7 @@ To demonstrate how our algorithm can seperate causal variables from spurious and
 
 <p align="center">
   <img src="./images/MNIST.jpg" width="500"> 
-  <em>Figure 1 : Causal Vriables (Bottom) vs Spurious Variables (Bottom) for MNIST  </em>
+  <figcaption>Figure 1 : Causal Vriables (Bottom) vs Spurious Variables (Bottom) for MNIST  </figcaption>
 </p>
 
 ### HELOC Dataset
@@ -27,6 +27,6 @@ The fundamental task is to predict credit risk. A simple ANN is trained for this
  
 <p align="center">
   <img src="./images/HELOC.jpg" width="500"> 
-  <em>Figure 2: Causal Variables and ranges for HELOC</em>
+  <figcaption>Figure 2: Causal Variables and ranges for HELOC</figcaption>
 </p>
 

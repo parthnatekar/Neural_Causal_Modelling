@@ -7,6 +7,8 @@ interpret why the model predicts what it does.
 This repository implements a framework to get causal interpretations of an Artificial Neural Network for determining neuron and layer level causality.
 
 ## Workflow 
+The workflow for determining causal variables for a particular prediction of the neural network is shown below. For example, you might want to understand why the neural network predicted that a particular image was a show.
+
 <p align="center">
   <img src="./images/workflow.png" width="700"> 
 </p>
@@ -27,5 +29,10 @@ The fundamental task is to predict credit risk. A simple ANN is trained for this
 
   <img src="./images/HELOC.jpg" width="500"> 
   <caption>Figure 2: Causal Variables and ranges for HELOC</caption>
+  
+  ## Related Literature
+  
+  1. Pearl, Judea. "An introduction to causal inference." The international journal of biostatistics 6, no. 2 (2010).
+  2. Chattopadhyay, Aditya, Piyushi Manupriya, Anirban Sarkar, and Vineeth N. Balasubramanian. "Neural Network Attributions: A Causal Perspective." arXiv preprint arXiv:1902.02302 (2019).
 
 

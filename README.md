@@ -10,7 +10,7 @@ This repository implements a framework to get causal interpretations of an Artif
 The workflow for determining causal variables for a particular prediction of the neural network is shown below. For example, you might want to understand why the neural network predicted that a particular image was a show.
 
 <p align="center">
-  <img src="./images/workflow.png" width="700"> 
+  <img src="./images/workflow.png" width="600"> 
 </p>
 
 
@@ -19,7 +19,7 @@ The workflow for determining causal variables for a particular prediction of the
 To demonstrate how our algorithm can seperate causal variables from spurious and non causal variables, we conduct a study comparing causal variables predicted by our algorithm with the Pearson Correlation Coefficient of each input variable with the output, as shown in Figure 1. We also verify this numerically via an ablation study. 
 
   <img src="./images/MNIST.jpg" width="500"> 
-  <caption>Figure 1 : Causal Vriables (Bottom) vs Spurious Variables (Bottom) for MNIST  </caption>
+  <caption>Figure 1 : Causal Variables (Bottom) vs Spurious Variables (Bottom) for MNIST  </caption>
 
 
 ### HELOC Dataset
@@ -30,6 +30,7 @@ The fundamental task is to predict credit risk. A simple ANN is trained for this
   <img src="./images/HELOC.jpg" width="500"> 
   <caption>Figure 2: Causal Variables and ranges for HELOC</caption>
   
+Figure 1 and 2 both show how variables causal for a particular prediction are delineated by the algorithm. 
   ## Related Literature
   
   1. Pearl, Judea. "An introduction to causal inference." The international journal of biostatistics 6, no. 2 (2010).

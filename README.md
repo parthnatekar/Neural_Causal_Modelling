@@ -29,7 +29,6 @@ The fundamental task is to predict credit risk. A simple ANN is trained for this
 
   <img src="./images/HELOC.jpg" width="500"> 
   <caption>Figure 2: Causal Variables and ranges for HELOC</caption>
-  
 <br/><br/>
 Figure 1 and 2 both show how variables causal for a particular prediction are delineated by the algorithm. For example, Figure 2 shows that the variable 'External Risk Estimate' being between  
   ## Related Literature

@@ -37,5 +37,7 @@ Figure 1 and 2 both show how variables causal for a particular prediction are de
 
 1. Pearl, Judea. "An introduction to causal inference." The international journal of biostatistics 6, no. 2 (2010).
 2. Chattopadhyay, Aditya, Piyushi Manupriya, Anirban Sarkar, and Vineeth N. Balasubramanian. "Neural Network Attributions: A Causal Perspective." arXiv preprint arXiv:1902.02302 (2019).
+3. Harradon, Michael, Jeff Druce, and Brian Ruttenberg. "Causal learning and explanation of deep neural networks via autoencoded activations." arXiv preprint arXiv:1802.00541 (2018).
+4. Molnar, Christoph. Interpretable machine learning. Lulu. com, 2019.
 
 

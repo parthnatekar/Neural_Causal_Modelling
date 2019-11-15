@@ -19,7 +19,7 @@ The workflow for determining causal variables for a particular prediction of the
 To demonstrate how our algorithm can seperate causal variables from spurious and non causal variables, we conduct a study comparing causal variables predicted by our algorithm with the Pearson Correlation Coefficient of each input variable with the output, as shown in Figure 1. We also verify this numerically via an ablation study. 
 
   <img src="./images/MNIST.jpg" width="500"> 
-  <caption>Figure 1 : Causal Variables (Bottom) vs Spurious Variables (Bottom) for MNIST  </caption>
+  <caption>Figure 1 : Causal Variables (Bottom) vs Spurious Variables (Top, in green) for MNIST  </caption>
 
 
 ### HELOC Dataset

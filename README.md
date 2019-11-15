@@ -30,10 +30,12 @@ The fundamental task is to predict credit risk. A simple ANN is trained for this
   <img src="./images/HELOC.jpg" width="500"> 
   <caption>Figure 2: Causal Variables and ranges for HELOC</caption>
 <br/><br/>
-Figure 1 and 2 both show how variables causal for a particular prediction are delineated by the algorithm. For example, Figure 2 shows that the variable 'External Risk Estimate' being between  
-  ## Related Literature
-  
-  1. Pearl, Judea. "An introduction to causal inference." The international journal of biostatistics 6, no. 2 (2010).
-  2. Chattopadhyay, Aditya, Piyushi Manupriya, Anirban Sarkar, and Vineeth N. Balasubramanian. "Neural Network Attributions: A Causal Perspective." arXiv preprint arXiv:1902.02302 (2019).
+Figure 1 and 2 both show how variables causal for a particular prediction are delineated by the algorithm. For example, Figure 2 shows that the variable 'External Risk Estimate' being between 42.5 to 52.8 is causal for a bad credit risk prediction.
+
+
+## Related Literature
+
+1. Pearl, Judea. "An introduction to causal inference." The international journal of biostatistics 6, no. 2 (2010).
+2. Chattopadhyay, Aditya, Piyushi Manupriya, Anirban Sarkar, and Vineeth N. Balasubramanian. "Neural Network Attributions: A Causal Perspective." arXiv preprint arXiv:1902.02302 (2019).
 
 

@@ -6,6 +6,11 @@ As machine learning models take over real world tasks, there is an increasing re
 interpret why the model predicts what it does.
 This repository implements a framework to get causal interpretations of an Artificial Neural Network for determining neuron and layer level causality.
 
+## Contributions
+> Interpretation  of a Neural Network as a Structural Causal Model
+> An efficient dictionary-based method to marginalize over the distribution generated on building the structural causal model
+> A working pipeline to delineate causal variables in the model from those with spurious correlation
+
 ## Workflow 
 The workflow for determining causal variables for a particular prediction of the neural network is shown below. For example, you might want to understand why the neural network predicted that a particular image was a show.
 

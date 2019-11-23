@@ -8,7 +8,9 @@ This repository implements a framework to get causal interpretations of an Artif
 
 ## Contributions
 > Interpretation  of a Neural Network as a Structural Causal Model
+
 > An efficient dictionary-based method to marginalize over the distribution generated on building the structural causal model
+
 > A working pipeline to delineate causal variables in the model from those with spurious correlation
 
 ## Workflow 

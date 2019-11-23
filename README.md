@@ -7,9 +7,9 @@ interpret why the model predicts what it does.
 This repository implements a framework to get causal interpretations of an Artificial Neural Network for determining neuron and layer level causality.
 
 ## Contributions
-> Interpretation  of a Neural Network as a Structural Causal Model
+> Interpretation  of a Neural Network as a Structural Causal Model (SCM)
 
-> An efficient dictionary-based method to marginalize over the distribution generated on building the structural causal model
+> An efficient dictionary-based method to marginalize over the distribution generated on building the SCM
 
 > A working pipeline to delineate causal variables in the model from those with spurious correlation
 
